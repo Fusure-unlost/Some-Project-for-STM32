@@ -1,0 +1,10 @@
+Listings/
+Objects/
+DebugConfig/
+*.uvoptx
+*.uvguix.*
+*.hex
+*.elf
+*.map
+*.lst
+*.scvd
